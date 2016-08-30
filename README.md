@@ -1,4 +1,7 @@
-# conventional-commit-types
+
+# react-commit-types
+
+## Adapted from conventional-commit-types (Readme below)
 
 List of conventional commit types.
 

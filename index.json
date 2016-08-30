@@ -1,7 +1,13 @@
 {
   "types": {
-    "feat": {
-      "description": "A new feature"
+    "component": {
+      "description": "A new component"
+    },
+    "prop": {
+      "description": "A new react prop"
+    },
+    "theme": {
+      "description": "Changes to a component's look and feel"
     },
     "fix": {
       "description": "A bug fix"
@@ -9,7 +15,7 @@
     "docs": {
       "description": "Documentation only changes"
     },
-    "style": {
+    "formatting": {
       "description": "Changes that do not affect the meaning of the code (white-space, formatting, missing semi-colons, etc.)"
     },
     "refactor": {

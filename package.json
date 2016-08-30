@@ -1,16 +1,16 @@
 {
-  "name": "conventional-commit-types",
+  "name": "react-commit-types",
   "version": "2.0.0",
-  "description": "List of conventional commit types.",
+  "description": "List of react commit types.",
   "main": "index.json",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "Anders D. Johnson <anders.d.johnson.developer@gmail.com> (https://andrz.me/)",
+  "author": "Yaniv Tal",
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "https://github.com/adjohnson916/conventional-commit-types.git"
+    "url": "https://github.com/workfloapp/react-commit-types.git"
   }
 }
